@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5D+84mDdCFM=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\adamb\\Documents\\InputOverlay\\C# Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamb\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\adamb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
